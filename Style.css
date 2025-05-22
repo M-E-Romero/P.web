@@ -117,3 +117,60 @@ main {
     padding: 30px;
     margin-left: 220px;
 }
+
+
+#recuadro{
+  background-color: #2f2175;
+  width: 1050px;
+  height: 450px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+ .map{
+     float: right;
+    margin-top:30px;
+    margin-right: 30px;
+ }
+
+#encon{
+    float: left;
+    color: #fff;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+     font-size:24px ; 
+    margin-top: 25px;
+    margin-left: 100px;
+}
+ 
+ .formulario form {
+      letter-spacing: 1px;
+         margin-left: 50px;
+            max-width: 300px;
+            font-family: Arial, Helvetica, sans-serif;
+            color:#fff
+        }
+
+.formulario input[type="text"],
+.formulario input[type="email"],
+.formulario textarea {
+            width: 100%;
+            padding: 5px;
+            margin-bottom: 5px;
+            border: 1px solid #ccc;
+        
+        }
+
+
+#boton:hover {
+    background-color: #333; 
+    border: 2px solid;
+}
+ #icono {
+    margin-left: 55px;
+    font-size:36px ; 
+    letter-spacing: 4px;
+     margin-top:20px;
+
+ }
